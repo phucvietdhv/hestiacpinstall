@@ -1,10 +1,6 @@
 #!/bin/bash
 
 # Hestia Ubuntu installer v1.0
-
-#----------------------------------------------------------#
-#                  Variables&Functions                     #
-#----------------------------------------------------------#
 export PATH=$PATH:/sbin
 export DEBIAN_FRONTEND=noninteractive
 RHOST='apt.hestiacp.com'
