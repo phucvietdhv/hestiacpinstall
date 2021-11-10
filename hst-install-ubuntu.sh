@@ -24,7 +24,7 @@ pma_v='5.1.1'
 rc_v="1.5.0"
 multiphp_v=("5.6" "7.0" "7.1" "7.2" "7.3" "7.4" "8.0")
 fpm_v="5.6"
-mariadb_v="10.6"
+mariadb_v="10.2"
 
 # Defining software pack for all distros
 software="apache2 apache2.2-common apache2-suexec-custom apache2-utils
