@@ -20,7 +20,7 @@ VERBOSE='no'
 
 # Define software versions
 HESTIA_INSTALL_VER='1.4.17'
-pma_v='5.1.1'
+pma_v='4.9.7'
 rc_v="1.5.0"
 multiphp_v=("5.6" "7.0" "7.1" "7.2" "7.3" "7.4" "8.0")
 fpm_v="5.6"
